@@ -1,35 +1,45 @@
-int[] list = new int[100000];
-int i, j, index, tmp, max;
+int[] arr;
 
-for (i = 0; i < list.length; i++) {
-  list[i] = (int)random(1000);
+void setup() {
+  intArr(16);
+  printArr();
+  selectionSorting();
+  printArr();
 }
 
-println(list.length);
-for (i = 0; i < list.length; i++) {
-  println(list[i]);
-}
-
-println();
-
-for (i = 0; i < list.length - 1; i++) {
-  int targetIndex = list.length - 1 - i;
-  max = list[0];
-  index = 0;
-
-  for (j = 1; j <= targetIndex; j++) {
-    if (list[j] > max) {
-      max = list[j];
-      index = j;
-    }
+void intArr(int n) {
+  int i;
+  arr = new int[n];
+  for(i=0; i<arr.length; i++) {
+    arr[i] = (int) random(100);
   }
-
-  tmp = list[targetIndex];
-  list[targetIndex] = max;
-  list[index] = tmp;
 }
 
-for (i = 0; i < list.length; i++) {
-  print(list[i] + " ");
+void printArr() {
+  int i;
+  for(i=0; i<arr.length; i++) {
+    print(arr[i], " ");
+  }
+  println();
 }
-println();
+
+void selectionSorting() {
+  int i, j, max, index, tmp;
+  for(i=0; i<arr.length; i++) {
+    max = index = -1;
+    for(j=0; j<arr.length-i; j++) {
+      if(max<arr[j]) {
+        index = j;
+        max = arr[j];
+      }
+    }
+  swap(index, arr.length-i-1);
+  } 
+}
+
+void swap(int i, int j) {
+  int tmp;
+  tmp = arr[j];
+  arr[j] = arr[i];
+  arr[i] = tmp;
+}
