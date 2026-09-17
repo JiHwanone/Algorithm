@@ -25,3 +25,8 @@
 
 [QuickSort](./homework/QuickSort/QuickSort.pde)
 ![Alt homework5](./homework/images/homework5.png)
+
+### Homework6
+
+[Heap](./homework/Heap/Heap.pde)
+![Alt homework6](./homework/images/homework6.png)
