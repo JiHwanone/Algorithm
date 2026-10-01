@@ -30,3 +30,11 @@
 
 [Heap](./homework/Heap/Heap.pde)
 ![Alt homework6](./homework/images/homework6.png)
+
+### Homework7
+
+[SortAnimation](./homework/SortAnimation/SortAnimation.pde)
+[Array](./homework/SortAnimation/Array.pde)
+![Alt SortAnimation](./homework/images/SortAnimation.png)
+![Alt Array](./homework/images/Array.png)
+![Alt SortAnimation gif](./homework/images/SortAnimation.gif)
