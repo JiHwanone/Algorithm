@@ -38,3 +38,9 @@
 ![Alt SortAnimation](./homework/images/SortAnimation.png)
 ![Alt Array](./homework/images/Array.png)
 ![Alt SortAnimation gif](./homework/images/SortAnimation.gif)
+
+### Homework8
+
+[BinarySearchTree](./homework/BinarySearchTree/BinarySearchTree.pde)
+![Alt BinarySearchTree](./homework/images/BinarySearchTree.png)
+![Alt BinarySearchTree_result](./homework/images/BinarySearchTree_result.png)
