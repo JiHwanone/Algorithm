@@ -54,8 +54,9 @@
 ### Homework10
 
 [PebblePlacement](./homework/PebblePlacement/PebblePlacement.pde)
-![Alt PebblePlacement](./homework/images/PebblePlacement.gif)
+![Alt PebblePlacement](./homework/images/PebblePlacement.png)
 ![Alt PebblePlacement_result](./homework/images/PebblePlacement_result.png)
+![Alt PebblePlacement gif](./homework/images/PebblePlacement.gif)
 
 ### Homework11
 
