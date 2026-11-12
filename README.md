@@ -61,6 +61,7 @@
 ### Homework11
 
 [DepthFirstSearch](./homework/DepthFirstSearch/DepthFirstSearch.pde)
-![Alt DepthFirstSearch](./homework/images/DepthFirstSearch.gif)
+![Alt DepthFirstSearch](./homework/images/DepthFirstSearch.png)
 ![Alt DepthFirstSearch_result1](./homework/images/DepthFirstSearch_result1.png)
 ![Alt DepthFirstSearch_result2](./homework/images/DepthFirstSearch_result2.png)
+![Alt DepthFirstSearch gif](./homework/images/DepthFirstSearch.gif)
