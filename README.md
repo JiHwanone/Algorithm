@@ -50,3 +50,9 @@
 [infix_to_postfix_calculator_using_stack](./homework/infix_to_postfix_calculator_using_stack/infix_to_postfix_calculator_using_stack.pde)
 ![Alt infix_to_postfix_calculator_using_stack](./homework/images/infix_to_postfix_calculator_using_stack.png)
 ![Alt infix_to_postfix_calculator_using_stack_계산기](./homework/images/infix_to_postfix_calculator_using_stack_계산기.png)
+
+### Homework10
+
+[PebblePlacement](./homework/PebblePlacement/PebblePlacement.pde)
+![Alt PebblePlacement](./homework/images/PebblePlacement.gif)
+![Alt PebblePlacement_result](./homework/images/PebblePlacement_result.png)
