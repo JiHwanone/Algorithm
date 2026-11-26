@@ -65,3 +65,10 @@
 ![Alt DepthFirstSearch_result1](./homework/images/DepthFirstSearch_result1.png)
 ![Alt DepthFirstSearch_result2](./homework/images/DepthFirstSearch_result2.png)
 ![Alt DepthFirstSearch gif](./homework/images/DepthFirstSearch.gif)
+
+### Homework12
+
+[Kruskal](./homework/Kruskal/Kruskal.pde)
+![Alt Kruskal](./homework/images/Kruskal.png)
+![Alt Kruskal_result](./homework/images/Kruskal_result.png)
+![Alt Kruskal gif](./homework/images/Kruskal.gif)
